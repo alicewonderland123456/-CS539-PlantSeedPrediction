@@ -6,6 +6,10 @@ Weinan Zhi, Yang Mo, Lei Ma, Zhiyi Huang, Yueqin Liang
 
 
 ## Project Description
+Our project is a cross-border collaboration between plants and machine learning. We use different models to identify a plant from a seed.
+The identification of seeds by traditional methods requires manually labeling, which is difficult, time consuming, and sometimes frustrating. Our project proposed an efficient way to identify seeds with high accuracy, which means we can improve crop yields, increase price and reduce waste.
+
+
 
 ## Dataset
 ### Plant Seedlings Dataset
